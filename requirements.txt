@@ -1,0 +1,6 @@
+pandas==2.2.3          # or latest 2.3.x if you need Python 3.14 compat
+numpy==2.4.0           # fresh Dec 2025 release
+scipy==1.14.1          # stable & compatible
+ccxt==4.5.29           # latest as of Dec 22, 2025
+matplotlib==3.10.0     # Dec 2024/2025 series – very recent features
+seaborn==0.13.2        # still current stable
